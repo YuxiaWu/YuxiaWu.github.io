@@ -47,6 +47,6 @@ I'm currently a research scientist in [Singapore Management University (SMU)](ht
 - *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China. Topic: Cross-domain recommendation
 
 # 👍 Services
-- Reviewer: WWW, ACL, EMNLP, MM, NLPCC, TPAMI, TKDE, TBD, TAI, TMC, KBS, Neurocomputing, The Journal of Supercomputing, *etc*.
+- Reviewer: WWW, ACL, MM, EMNLP, CIKM, NLPCC, TPAMI, TKDE, TBD, TAI, TMC, KBS, Neurocomputing, The Journal of Supercomputing, *etc*.
 
 

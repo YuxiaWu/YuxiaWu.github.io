@@ -24,7 +24,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 - *2023.05*: &nbsp;🎉🎉 I will join SMU as a research scientist!
 
 
-# 📝 Publications (First Author) 
+# 📝 Publications 
 - <span style="color:#4FC3F7">**Y. Wu**</span>, T.Dai, Z. Zheng, L. Liao. ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation), 2024, **TASLP** 
 - <span style="color:#4FC3F7">**Y. Wu**</span>, Y. Fang, L. Liao. ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf), 2024, **WWW** [[CODE]](https://github.com/yieshah/SimpleDyG)
 - <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, M. Li, Z. Zhang, X. Qian. "Reason Generation for Point of Interest Recommendation via Hierarchical Attention based Transformer Model", 2023, **TMM**.

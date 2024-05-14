@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a research scientist in [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). During my PhD, I also collaborate with [Prof. Guoshuai Zhao](http://guoshuaizhao.com/). 
+I'm currently a research scientist in [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm).
 
 
 # ✨ Research Interests
-- Graph Neural Networks, Graph mining
+- Graph Neural Networks
 - Recommendation Systems: sequential recommendation, conversational recommendation, *etc*.
 - NLP: Dialogue, Novel Class Detection/Discovery
 

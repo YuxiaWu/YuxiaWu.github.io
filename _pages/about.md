@@ -27,11 +27,11 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASLP 2024</div><img src='images/Active_Discovering_New_Slots_for_Task_oriented_Conversation_03.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation)
+["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf)
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
-[CODE]([https://github.com/yieshah/SimpleDyG](https://github.com/YuxiaWu/Bi-criteria)) (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bRgptuYAAAAJ&citation_for_view=bRgptuYAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+[CODE](https://github.com/YuxiaWu/Bi-criteria) (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bRgptuYAAAAJ&citation_for_view=bRgptuYAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
 
 </div>
 </div>

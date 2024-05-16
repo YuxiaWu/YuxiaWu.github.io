@@ -21,7 +21,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-- Graph mining: dynamic graph modeling, temporal knowledge graph
+- Graph mining: dynamic graph modeling, temporal knowledge graph, LLM for graphs
 - Recommendation systems: conversational recommendation, sequential recommendation, explainable recommendations
 - NLP: conversational search, new slot/intent discovery
 - Medical image processing: medical image registration, computer aided diagnosis

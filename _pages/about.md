@@ -191,11 +191,36 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 - *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, Henan, China
 
 # 💻 Experiences
-- *2023.05 - now*, Research Scientist, Singapore Management University.
-- *2021.03 - 2022.10*, Visiting Student, NExT++ Research Center, National University of Singapore. 
-- *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China. Topic: Cross-domain recommendation
+- *2023.05 - now*, Research Scientist, Singapore Management University. 
+  - **Research Topic**: Graph Data Mining
+  - **Supervisor**: Assistant Prof. Yuan Fang
+    
+- *2021.03 - 2022.10*, Research Intern, NExT++ Research Center, National University of Singapore.
+  - **Research Topic**: Conversational Recommender System
+  - **Supervisor**: Prof.Tat-Seng Chua, Assistant Prof.Lizi Liao
+    
+- *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China.
+  - **Research Topic**: Cross-domain Recommender System
+  - **Supervisor**: Yafeng Zhang, Jinpeng Wang
 
 # 👍 Services
-- Reviewer: WWW, ACL, MM, EMNLP, CIKM, NLPCC, TPAMI, TKDE, TBD, TAI, TMC, KBS, Neurocomputing, The Journal of Supercomputing, *etc*.
+
+- **Journal Reviewer**:
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI A*)
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE, A*)
+  - IEEE Transactions on Big Data (TBD, Q1)
+  - IEEE Transactions on Artificial Intelligence (TAI)
+  - IEEE Transactions on Mobile Computing (TMC, A*)
+  - Knowledge-Based Systems (B)
+  - Neurocomputing (B)
+  - The Journal of Supercomputing (B)
+
+- **Program Committee Member**:
+  - The Web Conference (WWW, A*), 2024
+  - ACM Multimedia (ACM MM, A*), 2024
+  - Annual Meeting of the Association for Computational Linguistics (ACL, A*), 2023-2024
+  - Conference on Information and Knowledge Management (CIKM, A), 2024
+  - Empirical Methods in Natural Language Processing (EMNLP, A*), 2022-2023
+  - Natural Language Processing and Chinese Computing (NLPCC, CCF C), 2023
 
 

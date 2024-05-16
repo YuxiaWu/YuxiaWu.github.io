@@ -32,7 +32,8 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
 [[CODE]](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
-
+    </div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03.png' alt="sym" width="100%"></div></div>
@@ -43,7 +44,8 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang,  Lizi Liao.
 
 [[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
-
+    </div>
+</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -60,7 +62,8 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian
 
 [[CODE]](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
-
+    </div>
+</div>
 
 
 

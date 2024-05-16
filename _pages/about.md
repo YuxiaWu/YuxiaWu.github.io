@@ -87,7 +87,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 
 ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf)
         
-<span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua.
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Lizi Liao, Xueming Qian, Tat-Seng Chua.
     
 </div>
 </div>
@@ -103,7 +103,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
         
 ["Multimodal Conversational Recommendation via State Graph Reasoning"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
         
-<span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, L. Liao, G. Zhang, W. Lei, X. Qian, T. Chua.
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Xueming Qian, Tat-Seng Chua.
       
 [CODE](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
    
@@ -157,7 +157,7 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 
 ["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
      
-<span style="color:#4FC3F7">**Y. Wu**</span>, K. Li, G. Zhao, X. Qian.
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
        
 [CODE](https://github.com/yieshah/PLSPL)
 

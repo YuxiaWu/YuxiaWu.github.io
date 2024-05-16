@@ -62,7 +62,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2023</div>
-            <img src='images/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model_03.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/HAT.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -96,7 +96,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2022</div>
-            <img src='images/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation_03.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/SGR.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -134,7 +134,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2020</div>
-            <img src='images/LAST_Location_Appearance_Semantic_Temporal_Clustering_based_POI_Summarization_01(1).png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/LAST.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -150,7 +150,7 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
     <div class='paper-box-image'>
         <div>
             <div class="badge">CIKM 2019</div>
-            <img src='images/Long- and_Short-term Preference Learning for Next POI Recommendation_02.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/LSPL.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">

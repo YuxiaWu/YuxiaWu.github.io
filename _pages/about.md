@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). 
 
-My research interests include Graph mining, recommendation systems, NLP and medical image processing. 
+My research interests include Graph mining, recommendation systems, NLP and medical image processing. <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📝 Publications 
 - <span style="color:#4FC3F7">**Y. Wu**</span>, T.Dai, Z. Zheng, L. Liao. ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation), 2024, **TASLP** 

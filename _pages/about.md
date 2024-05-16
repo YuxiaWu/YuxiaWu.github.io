@@ -49,7 +49,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
-      
+           
 ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
       
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.

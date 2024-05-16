@@ -96,7 +96,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2022</div>
-            <img src='images/Multimodal_Conversational_Recommendation_via_State_Graph_Reasoning_03.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation_03.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -115,7 +115,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">TKDE 2020</div>
-            <img src='images/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation_04.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/PLSPL.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">

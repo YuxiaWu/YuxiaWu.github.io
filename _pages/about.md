@@ -31,15 +31,40 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
-[CODE](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+[[CODE]](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
+
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang,  Lizi Liao.
+
+[[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Reason Generation for Point of Interest Recommendation via Hierarchical Attention based Transformer Model"](/my_papers/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model.pdf)
+
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian
+
+[[CODE]](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
 
 </div>
 </div>
 
 
 
-- <span style="color:#4FC3F7">**Y. Wu**</span>, Y. Fang, L. Liao. ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf), 2024, **WWW** [[CODE]](https://github.com/yieshah/SimpleDyG)
-- <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, M. Li, Z. Zhang, X. Qian. "Reason Generation for Point of Interest Recommendation via Hierarchical Attention based Transformer Model", 2023, **TMM**.
+
+
 - <span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua. ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf), Findings of EMNLP 2022.
 - <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, L. Liao, G. Zhang, W. Lei, X. Qian, T. Chua. [“Multimodal Conversational Recommendation via State Graph Reasoning”](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf), 2022, **TMM** [[CODE]](https://github.com/yieshah/SGR)
 - <span style="color:#4FC3F7">**Y. Wu**</span>, K. Li, G. Zhao, X. Qian. [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf), 2020, **TKDE** [[CODE]](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>

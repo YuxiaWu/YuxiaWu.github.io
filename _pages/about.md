@@ -22,6 +22,20 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 My research interests include Graph mining, recommendation systems, NLP and medical image processing. <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASLP 2024</div><img src='images/Active_Discovering_New_Slots_for_Task_oriented_Conversation_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation)
+
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
+
+[[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+- llll. 
+</div>
+</div>
+
 - <span style="color:#4FC3F7">**Y. Wu**</span>, T.Dai, Z. Zheng, L. Liao. ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation), 2024, **TASLP** 
 - <span style="color:#4FC3F7">**Y. Wu**</span>, Y. Fang, L. Liao. ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf), 2024, **WWW** [[CODE]](https://github.com/yieshah/SimpleDyG)
 - <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, M. Li, Z. Zhang, X. Qian. "Reason Generation for Point of Interest Recommendation via Hierarchical Attention based Transformer Model", 2023, **TMM**.

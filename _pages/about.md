@@ -50,7 +50,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     </div>
     <div class='paper-box-text' markdown="1">
            
-["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
+  ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
       
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.
         
@@ -89,7 +89,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
         
 <span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua.
     
-    </div>
+</div>
 </div>
 
 <div class='paper-box' style="width:100%; margin:auto;">
@@ -107,7 +107,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
       
 [CODE](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
    
-    </div>
+</div>
 </div>
 
 
@@ -126,7 +126,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
  
 [CODE](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>
-    </div>
+</div>
 </div>
 
 
@@ -160,7 +160,8 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 <span style="color:#4FC3F7">**Y. Wu**</span>, K. Li, G. Zhao, X. Qian.
        
 [CODE](https://github.com/yieshah/PLSPL)
-    </div>
+
+</div>
 </div>
 
 

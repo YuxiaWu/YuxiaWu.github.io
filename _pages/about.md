@@ -24,44 +24,45 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASLP 2024</div><img src='images/Active_Discovering_New_Slots_for_Task_oriented_Conversation_03.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf)
-
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
-
-[[CODE]](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+<div class='paper-box' style="width:80%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TASLP 2024</div>
+            <img src='images/Active_Discovering_New_Slots_for_Task_oriented_Conversation_03.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf)
+        <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
+        [[CODE]](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
     </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
-
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang,  Lizi Liao.
-
-[[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
+<div class='paper-box' style="width:80%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">WWW 2024</div>
+            <img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
+        <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.
+        [[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
     </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' style="width:80%; margin:auto;">
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2023</div>
             <img src='images/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model_03.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
-    <div class='paper-box-text' markdown="1">. 
-
-
-["Reason Generation for Point of Interest Recommendation via Hierarchical Attention based Transformer Model"](/my_papers/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model.pdf)
-
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian
-
-[[CODE]](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
+    <div class='paper-box-text' markdown="1">
+        ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
+        <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian.
+        [[CODE]](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
     </div>
 </div>
 

@@ -31,8 +31,8 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
-[[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
-- llll. 
+[CODE]([https://github.com/yieshah/SimpleDyG](https://github.com/YuxiaWu/Bi-criteria)) (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bRgptuYAAAAJ&citation_for_view=bRgptuYAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+
 </div>
 </div>
 

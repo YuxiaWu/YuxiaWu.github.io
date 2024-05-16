@@ -76,6 +76,93 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 </div>
 
 
+<div class='paper-box' style="width:100%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">EMNLP 2022</div>
+            <img src='images/Semi_supervised_New_Slot_Discovery_with_Incremental_Clustering_03.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf)
+        
+<span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua.
+    
+    </div>
+</div>
+
+<div class='paper-box' style="width:100%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TMM 2022</div>
+            <img src='images/Multimodal_Conversational_Recommendation_via_State_Graph_Reasoning_03.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        
+["Multimodal Conversational Recommendation via State Graph Reasoning"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
+        
+<span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, L. Liao, G. Zhang, W. Lei, X. Qian, T. Chua.
+      
+[CODE](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
+   
+    </div>
+</div>
+
+
+<div class='paper-box' style="width:100%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TKDE 2020</div>
+            <img src='images/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation_04.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+  [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)
+      
+       
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
+ 
+[CODE](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>
+    </div>
+</div>
+
+
+<div class='paper-box' style="width:100%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TMM 2020</div>
+            <img src='images/LAST_Location_Appearance_Semantic_Temporal_Clustering_based_POI_Summarization_01(1).png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
+       
+<span style="color:#4FC3F7">**Y. Wu**</span>, Y. Ren, et.al.
+
+    </div>
+</div>
+
+<div class='paper-box' style="width:100%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">CIKM 2019</div>
+            <img src='images/Long_and_Short_term_Preference_Learning_for_Next_POI_Recommendation_03.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
+     
+<span style="color:#4FC3F7">**Y. Wu**</span>, K. Li, G. Zhao, X. Qian.
+       
+[CODE](https://github.com/yieshah/PLSPL)
+    </div>
+</div>
+
 
 - <span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua. ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf), Findings of EMNLP 2022.
 - <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, L. Liao, G. Zhang, W. Lei, X. Qian, T. Chua. [“Multimodal Conversational Recommendation via State Graph Reasoning”](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf), 2022, **TMM** [[CODE]](https://github.com/yieshah/SGR)

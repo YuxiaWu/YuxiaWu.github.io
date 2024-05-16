@@ -62,7 +62,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2023</div>
-            <img src='images/HAT.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/HAT.png' alt="sym" style="width:80%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -101,7 +101,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     </div>
     <div class='paper-box-text' markdown="1">
         
-["Multimodal Conversational Recommendation via State Graph Reasoning"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
+["State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Xueming Qian, Tat-Seng Chua.
       

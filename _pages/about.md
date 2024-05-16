@@ -45,7 +45,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 [[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
 
 
-<div class='paper-box' style="width:80%; margin:auto;">
+<div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2023</div>

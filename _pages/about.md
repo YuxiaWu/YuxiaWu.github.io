@@ -24,7 +24,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 # 📝 Publications 
 
 
-<div class='paper-box' style="width:80%; margin:auto;">
+<div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
             <div class="badge">TASLP 2024</div>
@@ -41,7 +41,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 </div>
 </div>
 
-<div class='paper-box' style="width:80%; margin:auto;">
+<div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
             <div class="badge">WWW 2024</div>
@@ -58,7 +58,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 </div>
 </div>
 
-<div class='paper-box' style="width:80%; margin:auto;">
+<div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2023</div>

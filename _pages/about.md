@@ -45,8 +45,15 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 [[CODE]](https://github.com/yieshah/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model_03.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="width:80%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TMM 2023</div>
+            <img src='images/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model_03.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">. 
+
 
 ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention based Transformer Model"](/my_papers/Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model.pdf)
 

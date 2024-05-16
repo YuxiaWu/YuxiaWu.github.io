@@ -165,11 +165,24 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 </div>
 
 
-- <span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua. ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf), Findings of EMNLP 2022.
-- <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, L. Liao, G. Zhang, W. Lei, X. Qian, T. Chua. [“Multimodal Conversational Recommendation via State Graph Reasoning”](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf), 2022, **TMM** [[CODE]](https://github.com/yieshah/SGR)
-- <span style="color:#4FC3F7">**Y. Wu**</span>, K. Li, G. Zhao, X. Qian. [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf), 2020, **TKDE** [[CODE]](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>
-- X. Qian, <span style="color:#4FC3F7">**Y. Wu**</span>, Y. Ren, et.al. [“LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization”](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf), 2020, **TMM**
-- <span style="color:#4FC3F7">Y. Wu</span>, K. Li, G. Zhao, X. Qian. [“Long- and Short-term Preference Learning for Next POI Recommendation”](/my_papers/Long- and Short-term Preference Learning for Next POI Recommendation.pdf), **CIKM 2019**, [[CODE]](https://github.com/yieshah/PLSPL) 
+<div class='paper-box' style="width:100%; margin:auto;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">SPIE 2017</div>
+            <img src='images/SPIE.png' alt="sym" style="width:100%; height:auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)
+     
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
+       
+
+
+</div>
+</div>
+
 
 
 # 🎓 Educations

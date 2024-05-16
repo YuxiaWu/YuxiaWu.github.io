@@ -64,8 +64,6 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 
 
 
-
-
 - <span style="color:#4FC3F7">**Y. Wu**</span>, L. Liao, X. Qian, T. Chua. ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf), Findings of EMNLP 2022.
 - <span style="color:#4FC3F7">**Y. Wu**</span>, G. Zhao, L. Liao, G. Zhang, W. Lei, X. Qian, T. Chua. [“Multimodal Conversational Recommendation via State Graph Reasoning”](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf), 2022, **TMM** [[CODE]](https://github.com/yieshah/SGR)
 - <span style="color:#4FC3F7">**Y. Wu**</span>, K. Li, G. Zhao, X. Qian. [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf), 2020, **TKDE** [[CODE]](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>

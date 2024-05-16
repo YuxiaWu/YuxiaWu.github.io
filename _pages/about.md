@@ -141,16 +141,16 @@ My research interests include Graph mining, recommendation systems, NLP and medi
 
 ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
        
-<span style="color:#4FC3F7">**Y. Wu**</span>, Y. Ren, et.al.
+Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun Ren, Shuhui Liang, Zhetao Li
 
-    </div>
+</div>
 </div>
 
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
             <div class="badge">CIKM 2019</div>
-            <img src='images/Long_and_Short_term_Preference_Learning_for_Next_POI_Recommendation_03.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/Long- and_Short-term Preference Learning for Next POI Recommendation_02.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">

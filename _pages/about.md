@@ -80,7 +80,7 @@ My research interests include Graph mining, recommendation systems, NLP and medi
     <div class='paper-box-image'>
         <div>
             <div class="badge">EMNLP 2022</div>
-            <img src='images/Semi_supervised_New_Slot_Discovery_with_Incremental_Clustering_03.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/2022.findings-emnlp.462_02.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">

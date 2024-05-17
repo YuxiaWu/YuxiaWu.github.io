@@ -25,7 +25,6 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 - **Recommendation systems**: conversational recommendation, sequential recommendation, explainable recommendations
 - **NLP**: conversational search, new slot/intent discovery
 - **Medical image processing**: medical image registration, brain image analysis, computer aided diagnosis
-- **Multimodal**: Multimodal data summarization, 3D scene reconstruction
 - **AI for science**: Molecular graph analysis
 
 

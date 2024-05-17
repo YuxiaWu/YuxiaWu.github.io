@@ -47,8 +47,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>    
 
-<div class="publication">
-  <p>
+
     <strong>Active Discovering New Slots for Task-oriented Conversation</strong> 
     <a href="#" class="badge" onclick="toggleSection(event, 'abstract1')">[Abstract]</a>
     <a href="#" class="badge" onclick="toggleSection(event, 'bibtex1')">[BibTeX]</a>
@@ -65,7 +64,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
   publisher={IEEE}
 }
   </pre>
-</div>
+
 
 
 

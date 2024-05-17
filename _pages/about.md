@@ -46,20 +46,29 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>    
-<details>
-     <summary>
-       [![BibTeX](https://img.shields.io/badge/BibTeX-blue)]()
-     </summary>
-     <pre>
-        @article{wu2024active,
-        title={Active discovering new slots for task-oriented conversation},
-        author={Wu, Yuxia and Dai, Tianhao and Zheng, Zhedong and Liao, Lizi},
-        journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
-        year={2024},
-        publisher={IEEE}
-       }
-     </pre>
-   </details>
+
+<div class="publication">
+  <p>
+    <strong>Active Discovering New Slots for Task-oriented Conversation</strong> 
+    <a href="#" class="badge" onclick="toggleSection(event, 'abstract1')">[Abstract]</a>
+    <a href="#" class="badge" onclick="toggleSection(event, 'bibtex1')">[BibTeX]</a>
+  </p>
+  <p id="abstract1" class="abstract section" style="display:none;">
+    This paper proposes a novel approach for actively discovering new slots in task-oriented conversations, enhancing the efficiency and accuracy of the dialogue systems...
+  </p>
+  <pre id="bibtex1" class="bibtex section" style="display:none;">
+@article{wu2024active,
+  title={Active discovering new slots for task-oriented conversation},
+  author={Wu, Yuxia and Dai, Tianhao and Zheng, Zhedong and Liao, Lizi},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  year={2024},
+  publisher={IEEE}
+}
+  </pre>
+</div>
+
+
+
 </div>
 </div>
 

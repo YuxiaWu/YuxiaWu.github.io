@@ -48,7 +48,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>    
 <details>
      <summary>
-       [![BIBTEX](https://img.shields.io/badge/BibTeX-blue)]()
+       [![BibTeX](https://img.shields.io/badge/BibTeX-blue)]()
      </summary>
      <pre>
         @article{wu2024active,

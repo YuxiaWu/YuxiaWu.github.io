@@ -70,7 +70,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
     <div class='paper-box-image'>
         <div>
             <div class="badge">TMM 2023</div>
-            <img src='images/HAT.png' alt="sym" style="width:80%; height:auto;">
+            <img src='images/HAT.png' alt="sym" style="width:60%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -140,7 +140,7 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
     <div class='paper-box-image'>
         <div>
             <div class="badge">TKDE 2020</div>
-            <img src='images/PLSPL.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/PLSPL.png' alt="sym" style="width:80%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">

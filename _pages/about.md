@@ -45,7 +45,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
-[![CODE](https://img.shields.io/badge/CODE-link-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
 </div>
 </div>
 
@@ -62,7 +62,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
       
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.
         
-[CODE](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>   
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>   
 </div>
 </div>
 
@@ -79,7 +79,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian.
         
-[CODE](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
 </div>
 </div>
 
@@ -113,7 +113,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Xueming Qian, Tat-Seng Chua.
       
-[CODE](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
    
 </div>
 </div>
@@ -150,7 +150,7 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
        
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
  
-[CODE](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>
 </div>
 </div>
 
@@ -169,7 +169,7 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
      
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
        
-[CODE](https://github.com/yieshah/PLSPL)
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL)
 
 </div>
 </div>

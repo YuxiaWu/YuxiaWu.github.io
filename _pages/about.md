@@ -45,7 +45,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
-[CODE](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
+[![CODE](https://img.shields.io/badge/CODE-link-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>
 </div>
 </div>
 

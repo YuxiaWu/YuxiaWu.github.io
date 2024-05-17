@@ -109,7 +109,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
     </div>
     <div class='paper-box-text' markdown="1">
         
-["State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
+["State Graph Reasoning for Multimodal Conversational Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Xueming Qian, Tat-Seng Chua.
       

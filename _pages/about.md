@@ -62,7 +62,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
       
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.
         
-[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>   
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>  [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://www.youtube.com/watch?v=7sS0yVRS_jM))
 </div>
 </div>
 

@@ -58,7 +58,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
     </div>
     <div class='paper-box-text' markdown="1">
            
-  ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](/my_papers/On the Feasibility of Simple Transformer for Dynamic Graph Modeling.pdf)
+  ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)
       
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.
         

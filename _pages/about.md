@@ -93,9 +93,11 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
     </div>
     <div class='paper-box-text' markdown="1">
 
-["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/EMNLP-SIC-slides.pdf)
+["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf) 
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Lizi Liao, Xueming Qian, Tat-Seng Chua.
+
+[![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/EMNLP22-SIC-slides.pdf)
     
 </div>
 </div>

@@ -97,7 +97,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Lizi Liao, Xueming Qian, Tat-Seng Chua.
 
-[![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/EMNLP22-SIC-slides.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://aclanthology.org/2022.findings-emnlp.462.mp4)
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SIC) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/EMNLP22-SIC-slides.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://aclanthology.org/2022.findings-emnlp.462.mp4)
     
 </div>
 </div>

@@ -45,13 +45,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
-[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span></strong>    
-
-<a href="#" class="badge" onclick="toggleAbstract(event, 'abstract1')">[Abstract]</a>
-<p id="abstract1" class="abstract" style="display:none;">
-    This paper proposes a novel approach for actively discovering new slots in task-oriented conversations, enhancing the efficiency and accuracy of the dialogue systems...
-</p>
-
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
 </div>
 </div>
 

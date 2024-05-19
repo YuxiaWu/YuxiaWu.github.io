@@ -71,24 +71,6 @@ I am interested in conducting interdisciplinary research and open to collaborati
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
-            <div class="badge">TMM 2023</div>
-            <img src='images/HAT.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-      
-  ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
-        
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian.
-        
-[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
-</div>
-</div>
-
-
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
             <div class="badge">EMNLP 2022</div>
             <img src='images/2022.findings-emnlp.462_02.png' alt="sym" style="width:100%; height:auto;">
         </div>
@@ -124,8 +106,6 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 
 
-
-
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
@@ -140,15 +120,14 @@ I am interested in conducting interdisciplinary research and open to collaborati
        
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
  
-[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper)</span>
-
+[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 130+)</span>
 
 </div>
 </div>
 
 
 
-
+- ``TMM 2023`` <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT) 
 
 - ``TMM2020`` Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun Ren, Shuhui Liang, Zhetao Li. ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
   

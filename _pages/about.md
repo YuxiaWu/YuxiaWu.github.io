@@ -133,16 +133,16 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
 
-- ``TMM2020`` ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
+- [![TMM 2020](https://img.shields.io/badge/TMM%202020-darkblue)]() ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
   Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun Ren, Shuhui Liang, Zhetao Li. 
   
-- ``CIKM2019``["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
+- [![CIKM 2019](https://img.shields.io/badge/CIKM%202019-darkblue)]()["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
   
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
 
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/CIKM19-LSPL-poster.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/CIKM19-LSPL-slides.pdf)
 
-- ``SPIE2027`` <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. ["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)
+- [![SPIE 2017](https://img.shields.io/badge/SPIE%202017-darkblue)]() <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. ["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)
 
 
 # 🎓 Educations

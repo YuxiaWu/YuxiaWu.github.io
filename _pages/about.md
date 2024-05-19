@@ -127,7 +127,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 
 
-- ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"] (/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
+- ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. 
 

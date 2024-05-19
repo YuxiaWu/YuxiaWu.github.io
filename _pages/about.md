@@ -130,7 +130,6 @@ I am interested in conducting interdisciplinary research and open to collaborati
 - ``TMM 2023`` ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
 
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. 
-
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
 
 - ``TMM 2020`` ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
@@ -140,7 +139,6 @@ I am interested in conducting interdisciplinary research and open to collaborati
 - ``CIKM 2019``["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
   
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
-
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/CIKM19-LSPL-poster.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/CIKM19-LSPL-slides.pdf)
 
 - ``SPIE 2017``["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)

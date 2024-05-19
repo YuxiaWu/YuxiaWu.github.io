@@ -170,14 +170,10 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 
 ["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)
      
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
-       
-
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu
 
 </div>
 </div>
-
-
 
 
 - ``CIKM2019``["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf) <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/CIKM19-LSPL-poster.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/CIKM19-LSPL-slides.pdf)

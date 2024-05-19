@@ -127,22 +127,22 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 
 
-- [![TMM 2023](https://img.shields.io/badge/TMM%202023-mediumblue)]()["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
+- [![TMM 2023](https://img.shields.io/badge/TMM%202023-royalblue)]()["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
 
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. 
 
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
 
-- [![TMM 2020](https://img.shields.io/badge/TMM%202020-mediumblue)]() ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
+- [![TMM 2020](https://img.shields.io/badge/TMM%202020-royalblue)]() ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
   Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun Ren, Shuhui Liang, Zhetao Li. 
   
-- [![CIKM 2019](https://img.shields.io/badge/CIKM%202019-mediumblue)]()["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
+- [![CIKM 2019](https://img.shields.io/badge/CIKM%202019-royalblue)]()["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
   
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
 
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/CIKM19-LSPL-poster.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/CIKM19-LSPL-slides.pdf)
 
-- [![SPIE 2017](https://img.shields.io/badge/SPIE%202017-mediumblue)]() <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. ["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)
+- [![SPIE 2017](https://img.shields.io/badge/SPIE%202017-royalblue)]() <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. ["Multi-contrast MRI registration of carotid arteries based on cross-sectional images and lumen boundaries"](/my_papers/SPIE.pdf)
 
 
 # 🎓 Educations

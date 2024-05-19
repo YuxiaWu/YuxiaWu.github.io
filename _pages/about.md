@@ -159,26 +159,6 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 </div>
 
 
-
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">CIKM 2019</div>
-            <img src='images/LSPL.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-
-["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf) 
-     
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
-       
-[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/CIKM19-LSPL-poster.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/CIKM19-LSPL-slides.pdf)
-
-</div>
-</div>
-
-
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
@@ -196,6 +176,11 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 
 </div>
 </div>
+
+
+
+
+- ``CIKM2019``["Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf) <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/CIKM19-LSPL-poster.pdf) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/CIKM19-LSPL-slides.pdf)
 
 
 

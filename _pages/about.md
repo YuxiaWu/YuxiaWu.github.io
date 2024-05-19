@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Assistant Prof. Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). 
+My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Assistant Prof. Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). I also hold a Master's degree and a Bachelor's degree in *Biomedical Engineering* from Airforce Medical University and Zhengzhou University.
 
 > "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
 

@@ -129,9 +129,9 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 - ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason%20Generation%20for%20Point%20of%20Interest%20Recommendation%20via%20Hierarchical%20Attention-based%20Transformer%20Model.pdf)
 
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. 
+  <span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. 
 
-[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
+  [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
 
 - ``TMM2020`` Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun Ren, Shuhui Liang, Zhetao Li. ["LAST: Location-Appearance-Semantic-Temporal Clustering based POI Summarization"](/my_papers/LAST_Location-Appearance-Semantic-Temporal_Clustering_Based_POI_Summarization.pdf)
   

@@ -32,11 +32,7 @@ I'm currently a research scientist at [Singapore Management University (SMU)](ht
 I am interested in conducting interdisciplinary research and open to collaborations with academic and industry partners in my research areas. If you are interested in working together, please feel free to contact me.
 
 
-# 📝 Publications 
-
-- preprints:
-
-  - Xingtong Yu, Yuan Fang, Zemin Liu, <span style="color:#4FC3F7">Yuxia Wu</span>, Zhihao Wen, Jianyuan Bo, Xinming Zhang, Steven CH Hoi "Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting", Survey, arXiv preprint arXiv:2402.01440, 2024
+# 📝 Publications [[Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ)]
 
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>

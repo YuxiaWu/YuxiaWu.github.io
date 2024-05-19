@@ -205,7 +205,7 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
 - *2014.09 - 2017.07*,	Master of Engineering in Biomedical Engineering, Air Force Medical University, Shaanxi, China.
 - *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, Henan, China
 
-# 💻 Experiences
+# 🍀 Experiences
 - *2023.05 - now*, Research Scientist, Singapore Management University. 
   - **Research Topic**: Graph Data Mining
   - **Supervisor**: [Assistant Prof. Yuan Fang](https://www.yfang.site/home)
@@ -238,4 +238,8 @@ Xueming Qian, <span style="color:#4FC3F7">**Yuxia Wu**</span>, Mingdi Li, Yayun 
   - Empirical Methods in Natural Language Processing (**EMNLP**, A*), 2022-2023
   - Natural Language Processing and Chinese Computing (**NLPCC**, CCF C), 2023
 
+# 🌟 Miscellaneous
 
+In my spare time, I enjoy reading, running, fitness, swimming, and hiking.
+
+> "You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving." – "When Breath Becomes Air" by *Paul Kalanithi*

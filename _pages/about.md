@@ -29,7 +29,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **Medical image processing**: medical image registration, brain image analysis, computer aided diagnosis
 - **AI for science**: molecular graph analysis
 
-<span style="color:red">I am interested in conducting interdisciplinary research and open to collaborations with academic and industry partners in my research areas. If you are interested in working together, please feel free to contact me.</span>
+I am interested in conducting interdisciplinary research and open to collaborations with academic and industry partners in my research areas. If you are interested in working together, please feel free to contact me.
 
 > "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
 

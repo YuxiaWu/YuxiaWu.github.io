@@ -34,6 +34,9 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 # 📝 Publications 
 
+- preprints:
+
+  - Xingtong Yu, Yuan Fang, Zemin Liu, <span style="color:#4FC3F7">Yuxia Wu</span>, Zhihao Wen, Jianyuan Bo, Xinming Zhang, Steven CH Hoi "Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting", Survey, arXiv preprint arXiv:2402.01440, 2024
 
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>

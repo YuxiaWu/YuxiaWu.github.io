@@ -19,11 +19,11 @@ redirect_from:
 
 I'm currently a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Assistant Prof. Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). 
 
-I have extensive research experience in various domains, including graph mining, recommendation systems, dialogue systems, and medical image processing. My diverse background enables me to tackle problems from multiple angles and develop innovative solutions.
-
 > "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
 
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+I have extensive research experience in various domains, including graph mining, recommendation systems, dialogue systems, and medical image processing. My diverse background enables me to tackle problems from multiple angles and develop innovative solutions.
 
 - **Graph mining**: dynamic graph modeling, temporal knowledge graph, LLM for graphs
 - **Recommendation systems**: conversational recommendation, sequential recommendation, explainable recommendations

@@ -23,7 +23,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Yuxia Wu"
   avatar           : "images/android-chrome-512x512.png"
-  #bio              : "Research Scientist, SMU"
+  bio              : "Research Scientist, SMU"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "wu-yuxia-898617236"
   dblp             : "https://dblp.org/pid/198/6695"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3873-3982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

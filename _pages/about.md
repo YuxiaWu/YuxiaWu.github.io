@@ -99,7 +99,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
         
 ["State Graph Reasoning for Multimodal Conversational Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
         
-<span style="color:#4FC3F7">**Yuxia Wu**</span>, Guoshuai Zhao, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Xueming Qian, Tat-Seng Chua.
+<span style="color:#4FC3F7">**Yuxia Wu**</span>, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua
       
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
    

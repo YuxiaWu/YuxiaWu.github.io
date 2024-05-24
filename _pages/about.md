@@ -180,6 +180,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
 - **Program Committee Member**:
   - The Web Conference (**WWW**, A*), 2024
   - ACM Multimedia (**ACM MM**, A*), 2024
+  - ACL Rolling Review (**ACL ARR**, A*),2024
   - Annual Meeting of the Association for Computational Linguistics (**ACL**, A*), 2023-2024
   - Conference on Information and Knowledge Management (**CIKM**, A), 2024
   - Empirical Methods in Natural Language Processing (**EMNLP**, A*), 2022-2023

@@ -57,7 +57,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
     <div class='paper-box-image'>
         <div>
             <div class="badge">WWW 2024</div>
-            <img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03.png' alt="sym" style="width:100%; height:auto;">
+            <img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03 Copy.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">

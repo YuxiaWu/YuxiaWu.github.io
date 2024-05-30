@@ -24,10 +24,10 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - **Graph mining**: dynamic graph modeling, temporal knowledge graph, LLM for graphs
-- **Recommendation systems**: conversational recommendation, sequential recommendation, explainable recommendations
+- **Recommendation systems**: conversational recommendation, sequential recommendation, generative AI for recommendations
 - **NLP**: conversational search and recommendation, new slot/intent discovery
 - **Medical image processing**: medical image registration, brain image analysis, computer aided diagnosis
-- **AI for science**: molecular graph analysis
+- **AI for science**: molecular generation
 
 I am interested in conducting interdisciplinary research and open to collaborations with academic and industry partners in my research areas. If you are interested in working together, please feel free to contact me.
 

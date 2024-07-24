@@ -2,30 +2,18 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-  
- #- title: "News"
- #   url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
-
-  #- title: "Honors and Awards"
-  #  url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Experiences"
     url: "/#-experiences"
-    
-  #- title: "Invited Talks"
-  #  url: "/#-invited-talks"
 
   - title: "Services"
     url: "/#-services"
-
-  # - title: "How to Work"
-  #  url: "/#-how-to-work"
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"

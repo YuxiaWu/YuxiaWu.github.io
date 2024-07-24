@@ -31,7 +31,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 > "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
 
-# 📝 Publications [[Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ)]
+# 📝 Research [[Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ)]
 
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
@@ -144,12 +144,19 @@ I am interested in conducting interdisciplinary research and open to collaborati
   
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. 
 
-# 🎓 Educations
+# 🏫 Teaching
+- SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer 2024
+- COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer 2024
+- Top-conference Paper Analysis, Beijing, Lecturer 2022
+- Deep Learning Algorithm, Beijing, Teaching Assistant 2018 - 2020
+- Video Processing and Communications, Xi'an Jiaotong University, Teaching Assistant 2018 
+
+# 🎓 Education
 - *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, Shaanxi, China.
 - *2014.09 - 2017.07*,	Master of Engineering in Biomedical Engineering, Air Force Medical University, Shaanxi, China.
 - *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, Henan, China
 
-# 🍀 Experiences
+# 🍀 Experience
 - *2023.05 - now*, Research Scientist, Singapore Management University. 
   - **Research Topic**: Graph Data Mining
   - **Supervisor**: [Assistant Prof. Yuan Fang](https://www.yfang.site/home)
@@ -162,26 +169,26 @@ I am interested in conducting interdisciplinary research and open to collaborati
   - **Research Topic**: Cross-domain Recommender System
   - **Supervisor**: [Yafeng Zhang](https://scholar.google.com/citations?user=bMQ6vNwAAAAJ&hl=en), [Jinpeng Wang](https://joopoo.github.io/)
 
-# 👍 Services
+# 👍 Service
 
 - **Journal Reviewer**:
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI** A*)
-  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**, A*)
-  - IEEE Transactions on Big Data (**TBD**, Q1)
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+  - IEEE Transactions on Big Data (**TBD**)
   - IEEE Transactions on Artificial Intelligence (**TAI**)
-  - IEEE Transactions on Mobile Computing (**TMC**, A*)
-  - Knowledge-Based Systems (B)
-  - Neurocomputing (B)
-  - The Journal of Supercomputing (B)
+  - IEEE Transactions on Mobile Computing (**TMC**)
+  - Knowledge-Based Systems
+  - Neurocomputing
+  - The Journal of Supercomputing
 
 - **Program Committee Member**:
-  - The Web Conference (**WWW**, A*), 2024
-  - ACM Multimedia (**ACM MM**, A*), 2024
-  - ACL Rolling Review (**ACL ARR**, A*),2024
-  - Annual Meeting of the Association for Computational Linguistics (**ACL**, A*), 2023-2024
-  - Conference on Information and Knowledge Management (**CIKM**, A), 2024
-  - Empirical Methods in Natural Language Processing (**EMNLP**, A*), 2022-2023
-  - Natural Language Processing and Chinese Computing (**NLPCC**, CCF C), 2023
+  - The Web Conference (**WWW**), 2024
+  - ACM Multimedia (**ACM MM**), 2024
+  - ACL Rolling Review (**ACL ARR**),2024
+  - Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023-2024
+  - Conference on Information and Knowledge Management (**CIKM**), 2024
+  - Empirical Methods in Natural Language Processing (**EMNLP**), 2022-2023
+  - Natural Language Processing and Chinese Computing (**NLPCC**), 2023
 
 # 🌟 Miscellaneous
 

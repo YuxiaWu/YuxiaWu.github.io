@@ -144,7 +144,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
   
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. 
 
-# 🏫 Teaching
+# 🌟 Teaching
 - SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer 2024
 - COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer 2024
 - Top-conference Paper Analysis, Beijing, Lecturer 2022
@@ -190,8 +190,5 @@ I am interested in conducting interdisciplinary research and open to collaborati
   - Empirical Methods in Natural Language Processing (**EMNLP**), 2022-2023
   - Natural Language Processing and Chinese Computing (**NLPCC**), 2023
 
-# 🌟 Miscellaneous
-
-In my spare time, I enjoy reading, running, fitness, swimming, and hiking.
 
 > "You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving." – "When Breath Becomes Air" by *Paul Kalanithi*

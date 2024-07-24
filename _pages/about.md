@@ -31,7 +31,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 > "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
 
-<span class='anchor' id='research'></span>
+
 
 # 📝 Research [[Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ)]
 

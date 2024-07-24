@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research"
+    url: "/#-research"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Teaching"
+    url: "/#-teaching"
 
-  - title: "Experiences"
-    url: "/#-experiences"
+  - title: "Education"
+    url: "/#-education"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "Experience"
+    url: "/#-experience"
 
-  - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+  - title: "Service"
+    url: "/#-service"

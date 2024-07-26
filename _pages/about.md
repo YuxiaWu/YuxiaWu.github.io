@@ -147,11 +147,11 @@ I am interested in conducting interdisciplinary research and open to collaborati
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. 
 
 # 🌟 Teaching
-- SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer 2024
-- COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer 2024
-- Top-conference Paper Analysis, Beijing, Lecturer 2022
-- Deep Learning Algorithm, Beijing, Teaching Assistant 2018 - 2020
-- Video Processing and Communications, Xi'an Jiaotong University, Teaching Assistant 2018 
+- SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer, 2024
+- COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer, 2024
+- Top-conference Paper Analysis, Beijing, Lecturer, 2022
+- Deep Learning Algorithm, Beijing, Teaching Assistant, 2018 - 2020
+- Video Processing and Communications, Xi'an Jiaotong University, Teaching Assistant, 2018 
 
 # 🎓 Education
 - *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, Shaanxi, China.

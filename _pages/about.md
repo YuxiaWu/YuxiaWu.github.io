@@ -175,24 +175,6 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 - **Area Chair**: AJCAI 2024
 
-- **Journal Reviewer**:
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
-  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
-  - IEEE Transactions on Big Data (**TBD**)
-  - IEEE Transactions on Artificial Intelligence (**TAI**)
-  - IEEE Transactions on Mobile Computing (**TMC**)
-  - Knowledge-Based Systems
-  - Neurocomputing
-  - The Journal of Supercomputing
-
-- **Program Committee Member**:
-  - The Web Conference (**WWW**), 2024
-  - ACM Multimedia (**ACM MM**), 2024
-  - ACL Rolling Review (**ACL ARR**),2024
-  - Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023-2024
-  - Conference on Information and Knowledge Management (**CIKM**), 2024
-  - Empirical Methods in Natural Language Processing (**EMNLP**), 2022-2023
-  - Natural Language Processing and Chinese Computing (**NLPCC**), 2023
-
+- **Reviewer/PC Member**: WWW, MM, ACL ARR, ACL, CIKM, EMNLP, NLPCC, TPAMI, TKDE, TBD, TAI, TMC, Knowledge-Based Systems, Neurocomputing, The Journal of Supercomputing
 
 > "You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving." – "When Breath Becomes Air" by *Paul Kalanithi*

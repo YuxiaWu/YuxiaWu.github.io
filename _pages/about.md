@@ -147,6 +147,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. 
 
 # 🌟 Teaching
+
 - SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer 2024
 - COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer 2024
 - Top-conference Paper Analysis, Beijing, Lecturer 2022
@@ -154,6 +155,7 @@ I am interested in conducting interdisciplinary research and open to collaborati
 - Video Processing and Communications, Xi'an Jiaotong University, Teaching Assistant 2018 
 
 # 🎓 Education
+
 - *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, Shaanxi, China.
 - *2014.09 - 2017.07*,	Master of Engineering in Biomedical Engineering, Air Force Medical University, Shaanxi, China.
 - *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, Henan, China
@@ -173,6 +175,8 @@ I am interested in conducting interdisciplinary research and open to collaborati
 
 # 👍 Service
 
+- **Area Chair**: AJCAI 2024
+- 
 - **Journal Reviewer**:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)

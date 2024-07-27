@@ -159,22 +159,12 @@ I am interested in conducting interdisciplinary research and open to collaborati
 - *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, Henan, China
 
 # 🍀 Experience
-- *2023.05 - now*, Research Scientist, Singapore Management University. 
-  - **Research Topic**: Graph Data Mining
-  - **Supervisor**: [Assistant Prof. Yuan Fang](https://www.yfang.site/home)
-    
-- *2021.03 - 2022.10*, Research Intern, NExT++ Research Center, National University of Singapore.
-  - **Research Topic**: Conversational Recommender System
-  - **Supervisor**: [Prof.Tat-Seng Chua](https://www.chuatatseng.com/), [Assistant Prof.Lizi Liao](https://liziliao.github.io/)
-    
+- *2023.05 - now*, Research Scientist, Singapore Management University.  
+- *2021.03 - 2022.10*, Research Intern, NExT++ Research Center, National University of Singapore.    
 - *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China.
-  - **Research Topic**: Cross-domain Recommender System
-  - **Supervisor**: [Yafeng Zhang](https://scholar.google.com/citations?user=bMQ6vNwAAAAJ&hl=en), [Jinpeng Wang](https://joopoo.github.io/)
 
 # 👍 Service
-
 - **Area Chair**: AJCAI 2024
-
 - **Reviewer/PC Member**: WWW, MM, ACL ARR, ACL, CIKM, EMNLP, NLPCC, TPAMI, TKDE, TBD, TAI, TMC, Knowledge-Based Systems, Neurocomputing, The Journal of Supercomputing
 
 > "You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving." – "When Breath Becomes Air" by *Paul Kalanithi*

@@ -48,11 +48,11 @@ See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
         <div>
-            <img src='images/research theme.pdf' alt="sym" style="width:100%; height:auto;">
+            <img src='images/research theme.png' alt="sym" style="width:100%; height:auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
-      
+My research      
 
 
 

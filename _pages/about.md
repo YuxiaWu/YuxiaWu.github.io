@@ -62,7 +62,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024
   - A Survey of Ontology Expansion for Conversational Understanding.
 
-    Jinggui Liang, Yuxia Wu, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024
+    Jinggui Liang, **Yuxia Wu**, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024
   
   -  ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
   

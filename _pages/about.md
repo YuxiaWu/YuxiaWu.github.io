@@ -29,7 +29,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 🔥 News
 
-- **[09/2024]**: Two papers are accepted by EMNLP'24. Congratulations to Yimin and Jinggui!
+- **[09/2024]**: Two papers are accepted by EMNLP'24. Congratulations to Yimin (one paper about new intent discovery, accepted as Findings) and Jinggui (one survey paper about ontology expansion for conversational understanding)!
 - **[07/2024]**: I was awarded **Best Poster Presentation** at Singapore ACM SIGKDD Symposium 2024! Thanks for everyone!
 - **[05/2024]**: Check out our Tutorials "Towards Graph Foundation Models" ([Part I](/my_papers/2024.05_WWW24Tutorial_GFM_Part1.pdf), [Part II](/my_papers/2024.05_WWW24Tutorial_GFM_Part2.pdf) & [Part III](/my_papers/2024.05_WWW24Tutorial_GFM_Part3.pdf)) at WWW'24.
 - **[03/2024]**: Our paper about [new slot discovery](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) is accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP).
@@ -78,7 +78,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
     
   - ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf)  [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SIC) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/EMNLP22-SIC-slides.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://aclanthology.org/2022.findings-emnlp.462.mp4) 
   
-    **Yuxia Wu**, Lizi Liao, Xueming Qian, Tat-Seng Chua. EMNLP 2022
+    **Yuxia Wu**, Lizi Liao, Xueming Qian, Tat-Seng Chua. Findings of EMNLP 2022
   
   
   - ["State Graph Reasoning for Multimodal Conversational Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>

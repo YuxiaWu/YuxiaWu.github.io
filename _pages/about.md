@@ -45,8 +45,11 @@ I am interested in conducting interdisciplinary research and am open to collabor
 
 See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
 
-<img src="/images/research-theme.png" alt="My Profile Image" width="70%">
- 
+ <div style="text-align: center;">
+    <img src="/images/research-theme.png" alt="My Profile Image" width="70%">
+    <p><em>My research highlights </em></p>
+</div>
+
 - ``TASLP'24`` ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf)
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
   [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>

@@ -27,8 +27,6 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **Medical image processing**:  computer-aided diagnosis, neuroscience
 - **AI for science**: LLM for molecular generation
 
-> "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
-
 # 🔥 News
 
 - **[09/2024]**: Two papers are accepted by EMNLP'24. Congratulations to Yimin and Jinggui!

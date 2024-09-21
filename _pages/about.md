@@ -85,14 +85,15 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 
 ## 🙌 Students Co-supervision & Collaboration
--  Yimin Deng, PhD at XJTU with Prof. Xueming Qian
--  Shujie Li, Master at BUPT with Prof. Chuan Shi
--  Yuquan Yang, Master at USTC with Prof. Xinming Zhang
--  Jianyuan Bo, PhD at SMU with \textit{Assistant Prof. Yuan Fang
--  Sethupathy PARAMESWARAN, Research Engineer at SMU with Assistant Prof. Yuan Fang
--  HOANG Thi Linh, Research Engineer at SMU with Assistant Prof. Yuan Fang
--  Tianhao Dai, Former Research Engineer at SMU with Assistant Prof. Lizi Liao
--  Qiang Chen, Graduated master at XJTU with Associate Prof. Guoshuai Zhao  
+
+-  Jianyuan Bo: PhD at SMU with Assistant Prof. Yuan Fang
+-  Sethupathy PARAMESWARAN: Research Engineer at SMU with Assistant Prof. Yuan Fang
+-  Shujie Li: Master at BUPT with Prof. Chuan Shi
+-  Yuquan Yang: Master at USTC with Prof. Xinming Zhang
+-  HOANG Thi Linh: Research Engineer at SMU with Assistant Prof. Yuan Fang
+-  Yimin Deng: PhD at XJTU with Prof. Xueming Qian
+-  Tianhao Dai: Former Research Engineer at SMU with Assistant Prof. Lizi Liao
+-  Qiang Chen: Graduated master at XJTU with Associate Prof. Guoshuai Zhao  
 
 # 🌟 Teaching
 - SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer, 2024

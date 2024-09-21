@@ -101,9 +101,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
 - Video Processing and Communications, Xi'an Jiaotong University, Teaching Assistant, 2018 
 
 # 🎓 Education
-- *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, Shaanxi, China.
-- *2014.09 - 2017.07*,	Master of Engineering in Biomedical Engineering, Air Force Medical University, Shaanxi, China.
-- *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, Henan, China
+- *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, China.
+- *2014.09 - 2017.07*,	Master of Engineering in Biomedical Engineering, Air Force Medical University, China.
+- *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, China
 
 # 🍀 Experience
 - *2023.05 - now*, Research Scientist, Singapore Management University.  

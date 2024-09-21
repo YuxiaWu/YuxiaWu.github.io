@@ -27,8 +27,6 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **Medical image processing**:  computer-aided diagnosis, neuroscience
 - **AI for science**: LLM for molecular generation
 
-I am interested in conducting interdisciplinary research and am open to collaborations with academic and industry partners in my research areas. If you are interested in working together, please feel free to contact me.
-
 > "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." – Albert Einstein
 
 # 🔥 News
@@ -46,7 +44,7 @@ I am interested in conducting interdisciplinary research and am open to collabor
 See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
 
  <div style="text-align: center;">
-    <img src="/images/research-theme.png" alt="My research highlights" width="70%">
+    <img src="/images/research-theme.png" alt="My research highlights" width="80%">
 </div>
 
 -  ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>

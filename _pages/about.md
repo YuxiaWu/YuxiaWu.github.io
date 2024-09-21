@@ -48,7 +48,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 ## Selected Papers 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list. (* Equal Contribution)
 
-### Pre-printed
+### Pre-printed:
 
 - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
   **Yuxia Wu**, Yuan Fang, Lizi Liao
@@ -56,7 +56,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134)
   **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
 
-### Published
+### Published:
   - Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery.
 
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024

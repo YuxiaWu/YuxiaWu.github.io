@@ -46,7 +46,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 </div>
 
 ## Selected Papers 
-see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list. (* Equal Contribution)
 
 ### Pre-printed
 
@@ -57,6 +57,12 @@ see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
   **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
 
 ### Published
+  - Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery.
+
+    **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024
+  - A Survey of Ontology Expansion for Conversational Understanding.
+
+    Jinggui Liang, Yuxia Wu, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024
   
   -  ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
   

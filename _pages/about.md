@@ -48,101 +48,33 @@ See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
 
 ![My research ]('images/research theme.png')
 
-
-
-
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">TASLP 2024</div>
-            <img src='images/Active_Discovering_New_Slots_for_Task_oriented_Conversation_03.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-      
-["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf)
+ 
+- ``TASLP 2024`` ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf)
 
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Tianhao Dai, Zhedong Zheng, Lizi Liao.
 
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
-</div>
-</div>
-
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">WWW 2024</div>
-            <img src='images/On the Feasibility of Simple Transformer for Dynamic Graph Modeling_03 copy.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-           
-  ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)
+      
+- ``WWW 2024``["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)
       
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Yuan Fang, Lizi Liao.
-        
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong> [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/WWW24-SimpleDyG-poster.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://www.youtube.com/watch?v=7sS0yVRS_jM)
-</div>
-</div>
 
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">EMNLP 2022</div>
-            <img src='images/2022.findings-emnlp.462_02.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-
-["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf) 
+- ``EMNLP 2022`` ["Semi-supervised New Slot Discovery with Incremental Clustering"](/my_papers/2022.findings-emnlp.462.pdf) 
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Lizi Liao, Xueming Qian, Tat-Seng Chua.
-
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SIC) [![Slides](https://img.shields.io/badge/Slides-blue)](/my_papers/EMNLP22-SIC-slides.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://aclanthology.org/2022.findings-emnlp.462.mp4)
-    
-</div>
-</div>
 
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">TMM 2022</div>
-            <img src='images/SGR.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        
-["State Graph Reasoning for Multimodal Conversational Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
+- ``TMM 2022`` ["State Graph Reasoning for Multimodal Conversational Recommendation"](/my_papers/State_Graph_Reasoning_for_Multimodal_Conversational_Recommendation.pdf)
         
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua
-      
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/SGR) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong>
    
-</div>
-</div>
 
-
-
-<div class='paper-box' style="width:100%; margin:auto;">
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">TKDE 2020</div>
-            <img src='images/PLSPL.png' alt="sym" style="width:100%; height:auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-
-  [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)
-      
-       
+- ``TKDE 2020`` [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)
+          
 <span style="color:#4FC3F7">**Yuxia Wu**</span>, Ke Li, Guoshuai Zhao, Xueming Qian.
- 
 [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 160+)</span>
-
-</div>
-</div>
-
-
 
 - ``TMM 2023`` ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model.pdf) 
 

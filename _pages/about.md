@@ -41,7 +41,9 @@ I am interested in conducting interdisciplinary research and am open to collabor
 - **[11/2023]**: Our paper about [Reason generation for POI recommendation](/my_papers/Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model.pdf) is accepted by IEEE Transactions on Multimedia (TMM).
 - **[05/2023]**: I started the Postdoc position at Singapore Management University.
 
-# 📝 Research [[Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ)]
+# 📝 Research (selected papers) 
+
+See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ)] for the full publication list.
 
 <div class='paper-box' style="width:100%; margin:auto;">
     <div class='paper-box-image'>
@@ -154,6 +156,16 @@ I am interested in conducting interdisciplinary research and am open to collabor
   
   <span style="color:#4FC3F7">**Yuxia Wu**</span>, Xi Zhang, Xiaopan Xu, Yang Liu, Guopeng Zhang, Baojuan Li, Huijun Chen, Hongbing Lu. 
 
+## 🙌 Students Co-supervision & Collaboration
+-  Yimin Deng, PhD at XJTU with Prof. Xueming Qian
+-  Shujie Li, Master at BUPT with Prof. Chuan Shi
+-  Yuquan Yang, Master at USTC with Prof. Xinming Zhang
+-  Jianyuan Bo, PhD at SMU with \textit{Assistant Prof. Yuan Fang
+-  Sethupathy PARAMESWARAN, Research Engineer at SMU with Assistant Prof. Yuan Fang
+-  HOANG Thi Linh, Research Engineer at SMU with Assistant Prof. Yuan Fang
+-  Tianhao Dai, Former Research Engineer at SMU with Assistant Prof. Lizi Liao
+-  Qiang Chen, Graduated master at XJTU with Associate Prof. Guoshuai Zhao  
+
 # 🌟 Teaching
 - SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer, 2024
 - COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer, 2024
@@ -170,6 +182,7 @@ I am interested in conducting interdisciplinary research and am open to collabor
 - *2023.05 - now*, Research Scientist, Singapore Management University.  
 - *2021.03 - 2022.10*, Research Intern, NExT++ Research Center, National University of Singapore.    
 - *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China.
+- *2020.03 - 2020.10*, Project leader collaborated with industry partner Aidigger, Hangzhou, China.
 
 # 👍 Service
 - **Area Chair**: AJCAI 2024

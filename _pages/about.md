@@ -54,6 +54,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
     <div class='paper-box-text' markdown="1">
 My research      
 
+</div>
+</div>
 
 
 

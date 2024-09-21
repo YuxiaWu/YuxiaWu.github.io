@@ -56,7 +56,7 @@ see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
   **Yuxia Wu**, Yuan Fang, Lizi Liao
 
 - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134)
-  **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
+  **Yuxia Wu**<sup><span style="font-size: 2em;">*</span></sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
 
 ### Published papers
   

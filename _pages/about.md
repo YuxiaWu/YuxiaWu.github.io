@@ -41,12 +41,14 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 📝 Research 
 
+## Research highlights
 
  <div style="text-align: center;">
     <img src="/images/research-theme.png" alt="My research highlights" width="80%">
 </div>
 
-## Selected papers (see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list)
+## Selected papers 
+see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
 
 ### Pre-printed papers
 

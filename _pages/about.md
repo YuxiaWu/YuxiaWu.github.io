@@ -54,13 +54,13 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
   **Yuxia Wu**, Yuan Fang, Lizi Liao
 
 - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134)
-  **Yuxia Wu**, Shujie Li, Yuan Fang, Chuan Shi
+  **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
 
 ### Published papers
   
   -  ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
   
-      **Yuxia Wu**, Tianhao Dai, Zhedong Zheng, Lizi Liao. TASLP 2024
+      **Yuxia Wu**<sup>\*</sup>, **Tianhao Dai**<sup>\*</sup>, Zhedong Zheng, Lizi Liao. TASLP 2024
         
   - ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong> [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/WWW24-SimpleDyG-poster.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://www.youtube.com/watch?v=7sS0yVRS_jM)
   

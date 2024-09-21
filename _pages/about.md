@@ -100,7 +100,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
     **Yuxia Wu**, Ke Li, Guoshuai Zhao, Xueming Qian. CIKM 2019
 
 
-## 🙌 Students Co-supervision & Collaboration
+## 🙌 Students Co-supervision/Collaboration
 
 -  Jianyuan Bo: PhD at SMU with Assistant Prof. Yuan Fang
 -  Sethupathy PARAMESWARAN: Research Engineer at SMU with Assistant Prof. Yuan Fang

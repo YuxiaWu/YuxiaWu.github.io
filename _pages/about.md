@@ -41,11 +41,12 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 📝 Research 
 
-See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
 
  <div style="text-align: center;">
     <img src="/images/research-theme.png" alt="My research highlights" width="80%">
 </div>
+
+## Selected papers (see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list)
 
 -  ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
 

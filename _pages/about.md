@@ -34,6 +34,7 @@ I am interested in conducting interdisciplinary research and am open to collabor
 # 🔥 News
 
 - **[09/2024]**: Two papers are accepted by EMNLP'24. Congratulations to Yimin and Jinggui!
+- **[07/2024]**: I was awarded **Best Poster Presentation Award** at Singapore ACM SIGKDD Symposium 2024! Thanks for everyone!
 - **[05/2024]**: Check out our Tutorials "Towards Graph Foundation Models" ([Part I](/my_papers/2024.05_WWW24Tutorial_GFM_Part1.pdf), [Part II](/my_papers/2024.05_WWW24Tutorial_GFM_Part2.pdf) & [Part III](/my_papers/2024.05_WWW24Tutorial_GFM_Part3.pdf)) at WWW'24.
 - **[03/2024]**: Our paper about [new slot discovery](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) is accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP).
 - **[02/2024]**: Our paper about [simple Transformer for dynamic graph modeling](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622) is accepted by WWW'24.

@@ -29,7 +29,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 🔥 News
 
-- **[09/2024]**: Two papers are accepted by EMNLP'24. Congratulations to Yimin (one paper about new intent discovery, accepted as Findings) and Jinggui (one survey paper about ontology expansion for conversational understanding)!
+- **[09/2024]**: We have two papers accepted by EMNLP'24. Congratulations to Yimin (one paper about new intent discovery, accepted as Findings) and Jinggui (one survey paper about ontology expansion for conversational understanding)!
 - **[07/2024]**: I was awarded **Best Poster Presentation** at Singapore ACM SIGKDD Symposium 2024! Thanks for everyone!
 - **[05/2024]**: Check out our Tutorials "Towards Graph Foundation Models" ([Part I](/my_papers/2024.05_WWW24Tutorial_GFM_Part1.pdf), [Part II](/my_papers/2024.05_WWW24Tutorial_GFM_Part2.pdf) & [Part III](/my_papers/2024.05_WWW24Tutorial_GFM_Part3.pdf)) at WWW'24.
 - **[03/2024]**: Our paper about [new slot discovery](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) is accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP).

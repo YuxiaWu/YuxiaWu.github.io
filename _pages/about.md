@@ -39,7 +39,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **[11/2023]**: Our paper about [reason generation for POI recommendation](/my_papers/Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model.pdf) is accepted by IEEE Transactions on Multimedia (TMM).
 - **[05/2023]**: I started the Research Scientist (Postdoc) position at Singapore Management University.
 
-# 📝 Research (selected papers) 
+# 📝 Research 
 
 See [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
 

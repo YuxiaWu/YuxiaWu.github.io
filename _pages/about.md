@@ -48,7 +48,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 ## Selected Papers 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list. (* Equal Contribution)
 
-### Pre-printed:
+### Preprints:
 
 - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
   **Yuxia Wu**, Yuan Fang, Lizi Liao

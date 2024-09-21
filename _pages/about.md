@@ -39,16 +39,16 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 📝 Research 
 
-## Research highlights
+## Research Highlights
 
  <div style="text-align: center;">
     <img src="/images/research-theme.png" alt="My research highlights" width="80%">
 </div>
 
-## Selected papers 
+## Selected Papers 
 see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list.
 
-### Pre-printed papers
+### Pre-printed
 
 - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
   **Yuxia Wu**, Yuan Fang, Lizi Liao
@@ -56,7 +56,7 @@ see [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for
 - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134)
   **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
 
-### Published papers
+### Published
   
   -  ["Active Discovering New Slots for Task-oriented Conversation"](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/Bi-criteria) <span class='show_paper_citations' data='bRgptuYAAAAJ:UebtZRa9Y70C'></span>
   

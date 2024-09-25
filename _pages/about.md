@@ -131,6 +131,6 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 
 # 👍 Service
 - **Area Chair**: AJCAI 2024
-- **Reviewer/PC Member**: WWW, MM, ACL ARR, ACL, CIKM, EMNLP, NLPCC, TPAMI, TKDE, TBD, TAI, TMC, Knowledge-Based Systems, Neurocomputing, The Journal of Supercomputing
+- **Reviewer/PC Member**: WWW, MM, ACL ARR, ACL, CIKM, EMNLP, NLPCC, TPAMI, TKDE, TBD, TIST, TAI, TMC, Knowledge-Based Systems, Neurocomputing, The Journal of Supercomputing
 
 > "You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving." – "When Breath Becomes Air" by *Paul Kalanithi*

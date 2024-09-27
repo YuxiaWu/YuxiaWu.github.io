@@ -27,6 +27,8 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **Human-in-the-loop**: Active learning
 - **Graph data mining**: LLM for graphs; Graph learning in AI for Science
 
+<span style="color:red">I am on the job market for academic positions: Postdoc / Assistant Professor. Feel free to reach out if you have any opportunities.</span>
+
 # 🔥 News
 
 - **[09/2024]**: We have two papers accepted by EMNLP'24. Congratulations to Yimin (one paper about new intent discovery, accepted as Findings) and Jinggui (one survey paper about ontology expansion for conversational understanding)!

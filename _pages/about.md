@@ -21,11 +21,10 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-- **Graph mining**: dynamic graph modeling, LLM for graphs
-- **Recommendation systems**: conversational recommendation, sequential recommendation, generative AI for recommendations
-- **NLP**: task-oriented dialog system, new class discovery
-- **Medical image processing**:  computer-aided diagnosis, neuroscience
-- **AI for science**: LLM for molecular generation
+- **Spatial-temporal**: Human mobility forcasting; Dynamic graph modeling
+- **Personalization**: Conversational recommendation; Sequential recommendation; Generative AI for recommendations
+- **Conversation**: Task-oriented dialog system; New intent/slots discovery for conversational understanding
+- **Graph data mining**: LLM for graphs
 
 # 🔥 News
 
@@ -39,7 +38,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 📝 Research 
 
-## Research Highlights
+## Research Highlights: Empowering Intelligent Systems for Adaptive and Interactive Decision-Making
 
  <div style="text-align: center;">
     <img src="/images/research-theme.png" alt="My research highlights" width="80%">

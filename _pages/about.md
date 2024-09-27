@@ -23,7 +23,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 - **Spatial-temporal**: Human mobility forcasting; Dynamic graph modeling; Temporal event forcasting
 - **Personalization**: Conversational recommendation; Sequential recommendation; Generative AI for recommendation
-- **Conversation**: Task-oriented dialog system; New intent/slots discovery for conversational understanding
+- **Conversation**: Task-oriented dialog system; Ontology expansion for conversational understanding
 - **Human-in-the-loop**: Active learning
 - **Graph data mining**: LLM for graphs; Graph learning in AI for Science
 

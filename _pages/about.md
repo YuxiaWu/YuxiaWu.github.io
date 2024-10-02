@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Assistant Prof. Yuan Fang](https://www.yfang.site/home). Before that, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). I also hold a Master's and Bachelor's degrees in *Biomedical Engineering*.
+My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Assistant Prof. Yuan Fang](https://www.yfang.site/home). I also closely collaborate with [Assistant Prof. Lizi Liao](https://liziliao.github.io/). Previously, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). I also hold a Master's and Bachelor's degrees in *Biomedical Engineering*.
 
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -126,10 +126,10 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 - *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, China
 
 # 🍀 Experience
-- *2023.05 - now*, Research Scientist, Singapore Management University.  
-- *2021.03 - 2022.10*, Research Intern, NExT++ Research Center, National University of Singapore.    
-- *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China.
-- *2020.03 - 2020.10*, Project leader collaborated with industry partner Aidigger, Hangzhou, China.
+- *2023.05 - now*, Research Scientist, Singapore Management University. Supervisor: [Assistant Prof. Yuan Fang](https://www.yfang.site/home)
+- *2021.03 - 2022.10*, Research Intern, NExT Research Center, National University of Singapore. Supervisors: [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Assistant Prof. Lizi Liao](https://liziliao.github.io/)   
+- *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China. Mentors: Yafeng Zhang, Xuchu Hou, Jinpeng Wang
+- *2020.03 - 2020.10*, Project leader collaborated with industry partner Aidigger, Hangzhou, China. Mentors: Xiao Wei
 
 # 👍 Service
 - **Area Chair**: AJCAI 2024

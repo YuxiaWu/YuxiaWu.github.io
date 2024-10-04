@@ -55,10 +55,10 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
   **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
 
 ### Published:
-  - Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery.
+  - "Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery" 
 
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024
-  - A Survey of Ontology Expansion for Conversational Understanding.
+  - "A Survey of Ontology Expansion for Conversational Understanding"
 
     Jinggui Liang, **Yuxia Wu**, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024
   
@@ -84,7 +84,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
       **Yuxia Wu**, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. TMM 2022 
      
   
-  - [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)  [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 160+)</span>
+  - [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)  [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 160+)</span>
   
       **Yuxia Wu**, Ke Li, Guoshuai Zhao, Xueming Qian. TKDE 2020
   

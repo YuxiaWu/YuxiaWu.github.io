@@ -24,7 +24,6 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **Spatial-temporal**: Human mobility forcasting; Dynamic graph modeling; Temporal event forcasting
 - **Personalization**: Conversational recommendation; Sequential recommendation; Generative AI for recommendation
 - **Conversation**: Task-oriented dialog system; Ontology expansion for conversational understanding
-- **Human-in-the-loop**: Active learning
 - **Graph data mining**: LLM for graphs; Graph learning in AI for Science
 
 
@@ -66,7 +65,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
   
       **Yuxia Wu**<sup>\*</sup>, **Tianhao Dai**<sup>\*</sup>, Zhedong Zheng, Lizi Liao. TASLP 2024
         
-  - ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong> [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/WWW24-SimpleDyG-poster.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://www.youtube.com/watch?v=7sS0yVRS_jM) <span style="color:red">(Best Poster Presentation at Singapore ACM SIGKDD Symposium 2024. [Certificate](images/Award Certificate - Yuxia.pdf))</span> 
+  - ["On the Feasibility of Simple Transformer for Dynamic Graph Modeling"](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/SimpleDyG) <strong><span class='show_paper_citations' data='bRgptuYAAAAJ:KlAtU1dfN6UC'></span></strong> [![Poster](https://img.shields.io/badge/Poster-blue)](/my_papers/WWW24-SimpleDyG-poster.pdf) [![VIDEO](https://img.shields.io/badge/VIDEO-blue)](https://www.youtube.com/watch?v=7sS0yVRS_jM) <span style="color:red">(Best Poster Presentation at Singapore ACM SIGKDD Symposium 2024) </span> [Certificate](images/Award Certificate - Yuxia.pdf)
   
     **Yuxia Wu**, Yuan Fang, Lizi Liao. WWW 2024
   

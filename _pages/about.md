@@ -68,7 +68,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
   
     **Yuxia Wu**, Yuan Fang, Lizi Liao. WWW 2024
   
-  - ["Reason Generation for Point of Interest Recommendation via Hierarchical Attention-based Transformer Model"](/my_papers/Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model.pdf)[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
+  - ["Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model"](/my_papers/Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model.pdf)[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/HAT)
    
     **Yuxia Wu**, Guoshuai Zhao, Mingdi Li, Zhuocheng Zhang, Xueming Qian. TMM 2023
     

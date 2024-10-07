@@ -108,6 +108,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 -  Qiang Chen: Graduated master at XJTU with Associate Prof. Guoshuai Zhao  
 
 # 🌟 Teaching
+- ISSS609 Text Analytics and Application (Undergraduate), Singapore Management University, Guest Lecturer, 2024 
 - COMP 815 Nature Inspired Computing (Postgraduate), Auckland University of Technology, Guest Lecturer, 2024
 - ISSS606 Social Analytics and Applications (Postgraduate), Singapore Management University, Guest Lecturer, 2024
 - COMP 701 Nature Inspired Computing (Undergraduate), Auckland University of Technology, Guest Lecturer, 2024

@@ -109,7 +109,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 
 # 🌟 Teaching
 - COMP 815 Nature Inspired Computing (Postgraduate), Auckland University of Technology, Guest Lecturer, 2024
-- SSS606 Social Analytics and Applications (Postgraduate), Singapore Management University, Guest Lecturer, 2024
+- ISSS606 Social Analytics and Applications (Postgraduate), Singapore Management University, Guest Lecturer, 2024
 - COMP 701 Nature Inspired Computing (Undergraduate), Auckland University of Technology, Guest Lecturer, 2024
 - Top-conference Paper Analysis, Beijing, Lecturer, 2022
 - Deep Learning Algorithm, Beijing, Teaching Assistant, 2018 - 2020

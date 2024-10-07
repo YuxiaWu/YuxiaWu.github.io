@@ -108,11 +108,12 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 -  Qiang Chen: Graduated master at XJTU with Associate Prof. Guoshuai Zhao  
 
 # 🌟 Teaching
-- SSS606 Social Analytics and Applications, Singapore Management University, Guest Lecturer, 2024
-- COMP 701 Nature Inspired Computing, Auckland University of Technology, Guest Lecturer, 2024
+- COMP 815 Nature Inspired Computing (Postgraduate), Auckland University of Technology, Guest Lecturer, 2024
+- SSS606 Social Analytics and Applications (Postgraduate), Singapore Management University, Guest Lecturer, 2024
+- COMP 701 Nature Inspired Computing (Undergraduate), Auckland University of Technology, Guest Lecturer, 2024
 - Top-conference Paper Analysis, Beijing, Lecturer, 2022
 - Deep Learning Algorithm, Beijing, Teaching Assistant, 2018 - 2020
-- Video Processing and Communications, Xi'an Jiaotong University, Teaching Assistant, 2018 
+- Video Processing and Communications (Postgraduate), Xi'an Jiaotong University, Teaching Assistant, 2018 
 
 # 🎓 Education
 - *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, China.

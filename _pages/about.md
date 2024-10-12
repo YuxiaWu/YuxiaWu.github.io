@@ -25,7 +25,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 - **Conversational AI**: Task-oriented dialog system; Ontology expansion for conversational understanding
 - **Graph data mining**: Dynamic graph modeling; LLM for graphs
 
-
+> "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
 
 # 🔥 News
 

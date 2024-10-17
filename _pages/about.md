@@ -128,7 +128,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 - *2020.03 - 2020.10*, Project leader collaborated with industry partner Aidigger, Hangzhou, China. Mentors: Xiao Wei
 
 # 👍 Service
-- **Guest Editor**: MDPI electronics, Special Issue: ["AI for Science: Advanced Techniques and Interdisciplinary Applications"](https://www.mdpi.com/journal/electronics/special_issues/FGS2Y6L4M5)
+- **Guest Editor**: MDPI Electronics, Special Issue: ["AI for Science: Advanced Techniques and Interdisciplinary Applications"](https://www.mdpi.com/journal/electronics/special_issues/FGS2Y6L4M5)
 - **Area Chair**: AJCAI 2024
 - **Reviewer/PC Member**: WWW, MM, ACL ARR, ACL, CIKM, EMNLP, NLPCC, TPAMI, TKDE, TOIS, TBD, TIST, TAI, TMC, Knowledge-Based Systems, Neurocomputing, The Journal of Supercomputing
 

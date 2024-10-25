@@ -22,8 +22,9 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - **Recommendation System**: Sequential recommendation; Conversational recommendation; Explainable recommendation
-- **Conversational AI**: Task-oriented dialog system; Ontology expansion for conversational understanding
+- **Conversational AI**: Task-oriented dialog system; Conversational understanding
 - **Graph data mining**: Dynamic graph modeling; LLM for graphs
+- **Spatial-Temporal**: Human mobility; Smart cities; Event forecasting
 
 > "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
 
@@ -56,7 +57,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
   - "Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery" 
 
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024
-  - "A Survey of Ontology Expansion for Conversational Understanding"
+  - ["A Survey of Ontology Expansion for Conversational Understanding"](/my_papers/EMNLP24-Survey-OnExp.pdf)
 
     Jinggui Liang, **Yuxia Wu**, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024
   

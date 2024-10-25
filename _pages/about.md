@@ -57,7 +57,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
   - "Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery" 
 
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024
-  - ["A Survey of Ontology Expansion for Conversational Understanding"](/my_papers/EMNLP24-Survey-OnExp.pdf)
+  - ["A Survey of Ontology Expansion for Conversational Understanding"](https://arxiv.org/pdf/2410.15019)
 
     Jinggui Liang, **Yuxia Wu**, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024
   

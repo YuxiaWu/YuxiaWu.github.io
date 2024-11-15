@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Assistant Prof. Yuan Fang](https://www.yfang.site/home). I also closely collaborate with [Assistant Prof. Lizi Liao](https://liziliao.github.io/). Previously, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). I also hold a Master's and Bachelor's degrees in *Biomedical Engineering*.
+My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Assistant Prof. Yuan Fang](https://www.yfang.site/home). I also closely collaborate with [Assistant Prof. Lizi Liao](https://liziliao.github.io/). Previously, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). I also hold Master's and Bachelor's degrees in *Biomedical Engineering*.
 
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - **Recommendation System**: Sequential recommendation; Conversational recommendation; Explainable recommendation
 - **Conversational AI**: Task-oriented dialog system; Conversational understanding
 - **Graph data mining**: Dynamic graph modeling; LLM for graphs
-- **Spatial-Temporal**: Human mobility; Smart cities; Event forecasting
+- **Spatial-Temporal**: Human mobility; Smart cities; Temporal event forecasting
 
 > "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
 

@@ -22,8 +22,8 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - **Recommendation System**: Sequential recommendation; Conversational recommendation; Explainable recommendation
-- **Conversational AI**: Task-oriented dialog system; Conversational understanding
-- **Graph data mining**: Dynamic graph modeling; LLM for graphs
+- **Conversational System**: Task-oriented dialog system; Conversational understanding
+- **Graph Data Mining**: Dynamic graph modeling; LLM for graphs
 - **Spatial-Temporal**: Human mobility; Smart cities; Temporal event forecasting
 
 > "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
@@ -83,7 +83,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
       **Yuxia Wu**, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. TMM 2022 
      
   
-  - [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)  [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 160+)</span>
+  - [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf)  [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 170+)</span>
   
       **Yuxia Wu**, Ke Li, Guoshuai Zhao, Xueming Qian. TKDE 2020
   

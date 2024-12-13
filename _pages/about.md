@@ -29,10 +29,10 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 > "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
 
 # 🔥 News
-- **[12/2024]**: We will organize a Tutorial "Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond" at WWW'25. See you then in Sydney!   
+- **[12/2024]**: We will organize a Tutorials "Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond" at WWW'25. See you then in Sydney!   
 - **[09/2024]**: We have two papers accepted by EMNLP'24. Congrats to Yimin (one paper about new intent discovery, accepted as Findings) and Jinggui (the first survey paper about ontology expansion for conversational understanding)!
 - **[07/2024]**: I was awarded **Best Poster Presentation** at Singapore ACM SIGKDD Symposium 2024! Thanks for everyone!
-- **[05/2024]**: Check out our Tutorial "Towards Graph Foundation Models" ([Part I](/my_papers/2024.05_WWW24Tutorial_GFM_Part1.pdf), [Part II](/my_papers/2024.05_WWW24Tutorial_GFM_Part2.pdf) & [Part III](/my_papers/2024.05_WWW24Tutorial_GFM_Part3.pdf)) at WWW'24.
+- **[05/2024]**: Check out our Tutorials "Towards Graph Foundation Models" ([Part I](/my_papers/2024.05_WWW24Tutorial_GFM_Part1.pdf), [Part II](/my_papers/2024.05_WWW24Tutorial_GFM_Part2.pdf) & [Part III](/my_papers/2024.05_WWW24Tutorial_GFM_Part3.pdf)) at WWW'24.
 - **[03/2024]**: Our paper about [new slot discovery](/my_papers/Active_Discovering_New_Slots_for_Task_oriented_Conversation.pdf) is accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP).
 - **[02/2024]**: Our paper about [simple Transformer for dynamic graph modeling](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622) is accepted by WWW'24.
 - **[11/2023]**: Our paper about [reason generation for POI recommendation](/my_papers/Reason Generation for Point of Interest Recommendation via a Hierarchical Attention-based Transformer Model.pdf) is accepted by IEEE Transactions on Multimedia (TMM).

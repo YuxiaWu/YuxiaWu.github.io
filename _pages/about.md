@@ -29,6 +29,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 > "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
 
 # 🔥 News
+- **[01/2025]**: One paper accepted by NAACL 2025 about LLM for heterophilic graphs.
 - **[12/2024]**: We will organize a tutorial at WWW'25 on "Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond". See you then in Sydney!   
 - **[09/2024]**: We have two papers accepted by EMNLP'24. Congrats to Yimin (one paper about new intent discovery, accepted as Findings) and Jinggui (the first survey paper about ontology expansion for conversational understanding)!
 - **[07/2024]**: I was awarded **Best Poster Presentation** at Singapore ACM SIGKDD Symposium 2024! Thanks for everyone!
@@ -40,8 +41,6 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 📝 Research 
 
-
-
 ## Selected Papers 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list. (* Equal Contribution)
 
@@ -50,10 +49,10 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
   **Yuxia Wu**, Yuan Fang, Lizi Liao
 
-- [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134)
-  **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi
-
 ### Published:
+  - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134)
+  **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi. NAACL 2025
+
   - ["Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery"](https://aclanthology.org/2024.findings-emnlp.443/)
 
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024

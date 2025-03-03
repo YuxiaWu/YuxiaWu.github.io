@@ -50,12 +50,14 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 
 ### Published:
   - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/LLM4HeG)
-    
-  **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi. NAACL 2025
+
+    **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi. NAACL 2025
+
 
   - ["Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery"](https://aclanthology.org/2024.findings-emnlp.443/)[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/dymanne123/PLPCL)
 
     **Yimin Deng**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Li Zhu, Guoshuai Zhao, Xueming Qian. Findings of EMNLP 2024
+    
   - ["A Survey of Ontology Expansion for Conversational Understanding"](https://arxiv.org/pdf/2410.15019)
 
     Jinggui Liang, **Yuxia Wu**, Yuan Fang, Hao Fei, Lizi Liao. EMNLP 2024

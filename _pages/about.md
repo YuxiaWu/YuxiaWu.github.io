@@ -51,7 +51,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 
 ### Published:
   - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/LLM4HeG)
-  - 
+    
   **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi. NAACL 2025
 
   - ["Pseudo-Label Enhanced Prototypical Contrastive Learning for Uniformed Intent Discovery"](https://aclanthology.org/2024.findings-emnlp.443/)

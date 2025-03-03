@@ -30,7 +30,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 
 # 🔥 News
 - **[01/2025]**: One paper about [LLM for heterophilic graphs](https://arxiv.org/pdf/2408.14134) is accepted by NAACL 2025.
-- **[12/2024]**: We will organize a tutorial at WWW'25 on "Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond". See you then in Sydney!   
+- **[12/2024]**: We will organize a tutorial at WWW'25 on ["Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond"](https://github.com/smufang/fewshotgraph). See you then in Sydney!   
 - **[09/2024]**: We have two papers accepted by EMNLP'24. Congrats to Yimin (one paper about [new intent discovery](https://aclanthology.org/2024.findings-emnlp.443/), accepted as Findings) and Jinggui (the first survey paper about [ontology expansion for conversational understanding](https://arxiv.org/pdf/2410.15019))!
 - **[07/2024]**: I was awarded **Best Poster Presentation** at Singapore ACM SIGKDD Symposium 2024! Thanks for everyone!
 - **[05/2024]**: Check out our Tutorials "Towards Graph Foundation Models" ([Part I](/my_papers/2024.05_WWW24Tutorial_GFM_Part1.pdf), [Part II](/my_papers/2024.05_WWW24Tutorial_GFM_Part2.pdf) & [Part III](/my_papers/2024.05_WWW24Tutorial_GFM_Part3.pdf)) at WWW'24.

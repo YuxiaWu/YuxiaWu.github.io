@@ -44,7 +44,10 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuYAAAAJ) for the full publication list. (* Equal Contribution)
 
 ### Preprints:
+- [HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs](https://arxiv.org/abs/2503.04822) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/HeTGB)
+  **Shujie Li**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Chuan Shi, Yuan Fang. 
 
+  
 - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
   **Yuxia Wu**, Yuan Fang, Lizi Liao
 

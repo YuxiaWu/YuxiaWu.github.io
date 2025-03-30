@@ -87,7 +87,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
       **Yuxia Wu**, Lizi Liao, Gangyi Zhang, Wenqiang Lei, Guoshuai Zhao, Xueming Qian, Tat-Seng Chua. TMM 2022 
      
   
-  - [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 190+)</span>
+  - [“Personalized Long- and Short-term Preference Learning for Next POI Recommendation"](/my_papers/Personalized_Long-_and_Short-term_Preference_Learning_for_Next_POI_Recommendation.pdf) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/yieshah/PLSPL) <span style="color:red">(ESI Highly Cited Paper, Citations: 200+)</span>
   
       **Yuxia Wu**, Ke Li, Guoshuai Zhao, Xueming Qian. TKDE 2020
   

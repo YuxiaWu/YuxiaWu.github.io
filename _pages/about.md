@@ -47,11 +47,12 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 - [HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs](https://arxiv.org/abs/2503.04822) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/HeTGB)
   **Shujie Li**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Chuan Shi, Yuan Fang. 
 
-  
-- [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
-  **Yuxia Wu**, Yuan Fang, Lizi Liao
 
 ### Published:
+
+- [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
+  **Yuxia Wu**, Yuan Fang, Lizi Liao. SIGIR 2025
+  
   - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/LLM4HeG)
 
     **Yuxia Wu**<sup>\*</sup>, **Shujie Li**<sup>\*</sup>,Yuan Fang, Chuan Shi. NAACL 2025

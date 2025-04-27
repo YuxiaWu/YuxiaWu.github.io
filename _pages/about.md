@@ -51,9 +51,9 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 
 ### Published:
 
-  - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)
+  - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/RAG4DyG)
     
-    **Yuxia Wu**, Yuan Fang, Lizi Liao. SIGIR 2025
+    **Yuxia Wu**, Lizi Liao, Yuan Fang. SIGIR 2025
   
   - [Exploring the Potential of Large Language Models for Heterophilic Graphs](https://arxiv.org/pdf/2408.14134) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/LLM4HeG)
 

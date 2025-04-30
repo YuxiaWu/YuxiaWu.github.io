@@ -29,7 +29,7 @@ My name is Yuxia Wu, a research scientist at [Singapore Management University (S
 > "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness." – "Speak, Memory" by *Vladimir Nabokov.*
 
 # 🔥 News
-- **[04/2025]**: We will organize a tutorial at WWW'25 on ["Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond"](https://github.com/smufang/fewshotgraph). See you then in Sydney!  
+- **[04/2025]**: We have organized a tutorial at WWW'25 on ["Few-Shot Learning on Graphs: From Meta-Learning to LLM-empowered Pre-Training and Beyond"](https://github.com/smufang/fewshotgraph). [Slides](my_papers/WWW25 Tutorial Fewshot Graph learning.pdf)
 - **[04/2025]**: One paper about [RAG for dynamic graphs](https://arxiv.org/pdf/2408.14523) is accepted by SIGIR 2025.
 - **[01/2025]**: One paper about [LLM for heterophilic graphs](https://arxiv.org/pdf/2408.14134) is accepted by NAACL 2025.
 - **[09/2024]**: We have two papers accepted by EMNLP'24. Congrats to Yimin (one paper about [new intent discovery](https://aclanthology.org/2024.findings-emnlp.443/), accepted as Findings) and Jinggui (the first survey paper about [ontology expansion for conversational understanding](https://arxiv.org/pdf/2410.15019))!
@@ -46,12 +46,13 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
 
 ### Preprints:
 - [HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs](https://arxiv.org/abs/2503.04822) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/honey0219/HeTGB)
+
   **Shujie Li**<sup>\*</sup>, **Yuxia Wu**<sup>\*</sup>, Chuan Shi, Yuan Fang. 
 
 
 ### Published:
 
-  - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523)[![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/RAG4DyG)
+  - [Retrieval Augmented Generation for Dynamic Graph Modeling](https://arxiv.org/pdf/2408.14523) [![CODE](https://img.shields.io/badge/CODE-blue)](https://github.com/YuxiaWu/RAG4DyG)
     
     **Yuxia Wu**, Lizi Liao, Yuan Fang. SIGIR 2025
   

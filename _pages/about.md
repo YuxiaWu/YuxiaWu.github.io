@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Assistant Prof. Yuan Fang](https://www.yfang.site/home). I also closely collaborate with [Assistant Prof. Lizi Liao](https://liziliao.github.io/). Previously, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). I also hold Master's and Bachelor's degrees in *Biomedical Engineering*.
+My name is Yuxia Wu, a research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Assistant Prof. Yuan Fang](https://www.yfang.site/home). I also closely collaborate with [Assistant Prof. Lizi Liao](https://liziliao.github.io/). Previously, I obtained my Ph.D. degree in the area of *Computer Science* at [SMILES lab](http://www.smiles-xjtu.com/), Xi'an Jiaotong University, advised by [Prof. Xueming Qian](https://gr.xjtu.edu.cn/web/qianxm). 
 
 **Research interests:** <a href='https://scholar.google.com/citations?user=bRgptuYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -104,41 +104,5 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=bRgptuY
   
     **Yuxia Wu**, Ke Li, Guoshuai Zhao, Xueming Qian. CIKM 2019
 
-
-## 🙌 Students Co-supervision/Collaboration
-
--  Jianyuan Bo: PhD at SMU with Assistant Prof. Yuan Fang
--  Sethupathy PARAMESWARAN: Research Engineer at SMU with Assistant Prof. Yuan Fang
--  Shujie Li: Master at BUPT with Prof. Chuan Shi
--  Yuquan Yang: Master at USTC with Prof. Xinming Zhang
--  HOANG Thi Linh: Research Engineer at SMU with Assistant Prof. Yuan Fang
--  Yimin Deng: PhD at XJTU with Prof. Xueming Qian
--  Tianhao Dai: Former Research Engineer at SMU with Assistant Prof. Lizi Liao
--  Qiang Chen: Graduated master at XJTU with Associate Prof. Guoshuai Zhao  
-
-# 🌟 Teaching
-- ISSS609 Text Analytics and Application (Undergraduate), Singapore Management University, Guest Lecturer, 2024 
-- COMP 815 Nature Inspired Computing (Postgraduate), Auckland University of Technology, Guest Lecturer, 2024
-- ISSS606 Social Analytics and Applications (Postgraduate), Singapore Management University, Guest Lecturer, 2024
-- COMP 701 Nature Inspired Computing (Undergraduate), Auckland University of Technology, Guest Lecturer, 2024
-- Top-conference Paper Analysis, Beijing, Lecturer, 2022
-- Deep Learning Algorithm, Beijing, Teaching Assistant, 2018 - 2020
-- Video Processing and Communications (Postgraduate), Xi'an Jiaotong University, Teaching Assistant, 2018 
-
-# 🎓 Education
-- *2017.09 - 2023.03*,	Ph.D. in Information and Communication Engineering, Xi'an Jiaotong University, China.
-- *2014.09 - 2017.07*,	Master of Engineering in Biomedical Engineering, Air Force Medical University, China.
-- *2010.09 - 2014.07*,	Bachelor of Engineering in Biomedical Engineering, Zhengzhou University, China
-
-# 🍀 Experience
-- *2023.05 - now*, Research Scientist, Singapore Management University. Supervisor: [Assistant Prof. Yuan Fang](https://www.yfang.site/home)
-- *2021.03 - 2022.10*, Research Intern, NExT Research Center, National University of Singapore. Supervisors: [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Assistant Prof. Lizi Liao](https://liziliao.github.io/)   
-- *2020.10 - 2021.03*, Research Intern, Meituan, Beijing, China. Mentors: Yafeng Zhang, Xuchu Hou, Jinpeng Wang
-- *2020.03 - 2020.10*, Project leader collaborated with industry partner Aidigger, Hangzhou, China. Mentors: Xiao Wei
-
-# 👍 Service
-- **Guest Editor**: MDPI Electronics, Special Issue: ["AI for Science: Advanced Techniques and Interdisciplinary Applications"](https://www.mdpi.com/journal/electronics/special_issues/FGS2Y6L4M5)
-- **Area Chair**: AJCAI 2024
-- **Reviewer/PC Member**: WWW, MM, ACL ARR, ACL, CIKM, EMNLP, NLPCC, TPAMI, TKDE, TOIS, TBD, TIST, TAI, TMC, Knowledge-Based Systems, Neurocomputing, The Journal of Supercomputing
 
 > "You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving." – "When Breath Becomes Air" by *Paul Kalanithi*
